@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laptops>
+	<laptop name="Dell">
+		<price value="50000"></price>
+		<ram value="8Gb"></ram>
+		<ssd value="250Gb"></ssd>
+	</laptop>
+	<laptop name="Lenovo">
+		<price value="30000"></price>
+		<ram value="4Gb"></ram>
+		<hardDisk value="250Gb"></hardDisk>
+	</laptop>
+	<laptop name="HP">
+		<price value="80000"></price>
+		<ram value="16Gb"></ram>
+		<ssd value="500Gb"></ssd>
+	</laptop>
+</laptops>
